@@ -1,13 +1,10 @@
 <?php
-namespace hs\rabbitmq\facade;
+namespace hs\rabbitmq;
 
-use hs\rabbitmq\Consumer;
-use hs\rabbitmq\Producer;
 
 /**
- * 调用类封装
  * Class Rabbit
- * @package hs\rabbitmq\facade
+ * @package hs\rabbitmq
  */
 class Rabbit
 {

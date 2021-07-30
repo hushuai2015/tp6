@@ -1,12 +1,12 @@
 <?php
-namespace hs\rabbitmq\facade;
+namespace hs\rabbitmq;
 
 use think\Facade;
 
 /**
- * 门面类，便于调用
+ * 门面
  * Class RabbitFacade
- * @package hs\rabbitmq\facade
+ * @package hs\rabbitmq
  * @method static mixed push(array $msg,string $topic)
  * @method static mixed consumer(string $topic)
  */

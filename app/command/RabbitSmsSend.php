@@ -2,7 +2,7 @@
 declare (strict_types = 1);
 
 namespace app\command;
-use hs\rabbitmq\facade\RabbitFacade;
+use hs\rabbitmq\RabbitFacade;
 use think\console\Command;
 use think\console\Input;
 use think\console\Output;
