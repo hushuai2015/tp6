@@ -28,7 +28,7 @@ class ComposerStaticInit19f878a269740d97c98a815f85a74832
         ),
         'h' => 
         array (
-            'hs\\rabbmitmq\\' => 13,
+            'hs\\rabbitmq\\' => 12,
         ),
         'a' => 
         array (
@@ -73,7 +73,7 @@ class ComposerStaticInit19f878a269740d97c98a815f85a74832
         array (
             0 => __DIR__ . '/..' . '/phpseclib/phpseclib/phpseclib',
         ),
-        'hs\\rabbmitmq\\' => 
+        'hs\\rabbitmq\\' => 
         array (
             0 => __DIR__ . '/..' . '/hushuai/tp-rabbmitmq/src/rabbitmq',
         ),

@@ -8,16 +8,16 @@
     "packages": [
         {
             "name": "hushuai/tp-rabbmitmq",
-            "version": "v1.0.2",
+            "version": "v1.0.4",
             "source": {
                 "type": "git",
                 "url": "https://github.com/hushuai2015/rabbitmq.git",
-                "reference": "4e1cac2a2a610eddfbc59f9db9088f51b1993999"
+                "reference": "667c4de4af6c33442a42259288afc5c1dd529bd8"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/hushuai2015/rabbitmq/zipball/4e1cac2a2a610eddfbc59f9db9088f51b1993999",
-                "reference": "4e1cac2a2a610eddfbc59f9db9088f51b1993999",
+                "url": "https://api.github.com/repos/hushuai2015/rabbitmq/zipball/667c4de4af6c33442a42259288afc5c1dd529bd8",
+                "reference": "667c4de4af6c33442a42259288afc5c1dd529bd8",
                 "shasum": ""
             },
             "require": {
@@ -29,7 +29,7 @@
             "type": "library",
             "autoload": {
                 "psr-4": {
-                    "hs\\rabbmitmq\\": "src/rabbitmq"
+                    "hs\\rabbitmq\\": "src/rabbitmq"
                 }
             },
             "notification-url": "https://packagist.org/downloads/",
@@ -45,9 +45,9 @@
             "description": "thinkphp6-rabbitmq",
             "support": {
                 "issues": "https://github.com/hushuai2015/rabbitmq/issues",
-                "source": "https://github.com/hushuai2015/rabbitmq/tree/v1.0.2"
+                "source": "https://github.com/hushuai2015/rabbitmq/tree/v1.0.4"
             },
-            "time": "2021-07-30T07:31:18+00:00"
+            "time": "2021-07-30T07:52:49+00:00"
         },
         {
             "name": "league/flysystem",
