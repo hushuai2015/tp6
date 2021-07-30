@@ -56,7 +56,6 @@ class Common
      */
     public function job(array $msg,int $retry) :bool
     {
-        //$data = $this->init($msg);
         $func  = $msg['params']['pms'];
         $class = $msg['queueConfig']['class_name'];
         return method_exists($class,$func) ? (new $class())->$func($msg,$retry) : true;
