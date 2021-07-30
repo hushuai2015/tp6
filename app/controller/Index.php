@@ -13,7 +13,7 @@ class Index extends BaseController
 
     public function hello($name = 'ThinkPHP6')
     {
-        RabbitFacade::push();
+        RabbitFacade::push(['pms' => 'test','abc' => 11],'sms_send');
         return 'hello,' . $name;
     }
 }

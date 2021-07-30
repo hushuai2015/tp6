@@ -20,7 +20,7 @@ class SmsSend
         $data = $this->init($param);
         echo json_encode($data) . "\n" ;
         sleep(1);
-        return $this->release()->error();
+        return $this->complete();
     }
     
 }
