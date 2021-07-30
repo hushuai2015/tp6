@@ -1,22 +1,22 @@
 <?php return array(
     'root' => array(
-        'pretty_version' => '1.0.0+no-version-set',
-        'version' => '1.0.0.0',
+        'pretty_version' => 'dev-master',
+        'version' => 'dev-master',
         'type' => 'project',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
-        'reference' => NULL,
+        'reference' => '59fbb0a946c93a27c65926d36a2b986a64e61d77',
         'name' => 'topthink/think',
         'dev' => true,
     ),
     'versions' => array(
         'hushuai/tp-rabbmitmq' => array(
-            'pretty_version' => 'v1.0.1',
-            'version' => '1.0.1.0',
+            'pretty_version' => 'v1.0.2',
+            'version' => '1.0.2.0',
             'type' => 'library',
             'install_path' => __DIR__ . '/../hushuai/tp-rabbmitmq',
             'aliases' => array(),
-            'reference' => 'ddab99d0421307c5dee76440615b5433a3d13e64',
+            'reference' => '4e1cac2a2a610eddfbc59f9db9088f51b1993999',
             'dev_requirement' => false,
         ),
         'league/flysystem' => array(
@@ -164,12 +164,12 @@
             'dev_requirement' => false,
         ),
         'topthink/think' => array(
-            'pretty_version' => '1.0.0+no-version-set',
-            'version' => '1.0.0.0',
+            'pretty_version' => 'dev-master',
+            'version' => 'dev-master',
             'type' => 'project',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
-            'reference' => NULL,
+            'reference' => '59fbb0a946c93a27c65926d36a2b986a64e61d77',
             'dev_requirement' => false,
         ),
         'topthink/think-helper' => array(

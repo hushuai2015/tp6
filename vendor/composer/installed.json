@@ -2,17 +2,17 @@
     "packages": [
         {
             "name": "hushuai/tp-rabbmitmq",
-            "version": "v1.0.1",
-            "version_normalized": "1.0.1.0",
+            "version": "v1.0.2",
+            "version_normalized": "1.0.2.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/hushuai2015/rabbitmq.git",
-                "reference": "ddab99d0421307c5dee76440615b5433a3d13e64"
+                "reference": "4e1cac2a2a610eddfbc59f9db9088f51b1993999"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/hushuai2015/rabbitmq/zipball/ddab99d0421307c5dee76440615b5433a3d13e64",
-                "reference": "ddab99d0421307c5dee76440615b5433a3d13e64",
+                "url": "https://api.github.com/repos/hushuai2015/rabbitmq/zipball/4e1cac2a2a610eddfbc59f9db9088f51b1993999",
+                "reference": "4e1cac2a2a610eddfbc59f9db9088f51b1993999",
                 "shasum": ""
             },
             "require": {
@@ -21,12 +21,12 @@
                 "php-amqplib/php-amqplib": "^3.0",
                 "topthink/framework": "^6.0.0"
             },
-            "time": "2021-07-30T03:31:38+00:00",
+            "time": "2021-07-30T07:31:18+00:00",
             "type": "library",
             "installation-source": "dist",
             "autoload": {
                 "psr-4": {
-                    "hs\\rabbmitmq\\": "src/"
+                    "hs\\rabbmitmq\\": "src/rabbitmq"
                 }
             },
             "notification-url": "https://packagist.org/downloads/",
@@ -42,7 +42,7 @@
             "description": "thinkphp6-rabbitmq",
             "support": {
                 "issues": "https://github.com/hushuai2015/rabbitmq/issues",
-                "source": "https://github.com/hushuai2015/rabbitmq/tree/v1.0.1"
+                "source": "https://github.com/hushuai2015/rabbitmq/tree/v1.0.2"
             },
             "install-path": "../hushuai/tp-rabbmitmq"
         },
