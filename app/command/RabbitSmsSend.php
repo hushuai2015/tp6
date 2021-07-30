@@ -19,6 +19,7 @@ class RabbitSmsSend extends Command
 
     protected function execute(Input $input, Output $output)
     {
+
         RabbitFacade::consumer('sms_send');
     }
 
