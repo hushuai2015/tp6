@@ -75,7 +75,7 @@ class ComposerStaticInit19f878a269740d97c98a815f85a74832
         ),
         'hs\\rabbitmq\\' => 
         array (
-            0 => __DIR__ . '/..' . '/hushuai/tp-rabbmitmq/src/rabbitmq',
+            0 => __DIR__ . '/..' . '/hushuai/tp-rabbitmq/src/rabbitmq',
         ),
         'app\\' => 
         array (

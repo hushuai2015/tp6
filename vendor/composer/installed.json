@@ -1,7 +1,7 @@
 {
     "packages": [
         {
-            "name": "hushuai/tp-rabbmitmq",
+            "name": "hushuai/tp-rabbitmq",
             "version": "v1.0.4",
             "version_normalized": "1.0.4.0",
             "source": {
@@ -44,7 +44,7 @@
                 "issues": "https://github.com/hushuai2015/rabbitmq/issues",
                 "source": "https://github.com/hushuai2015/rabbitmq/tree/v1.0.4"
             },
-            "install-path": "../hushuai/tp-rabbmitmq"
+            "install-path": "../hushuai/tp-rabbitmq"
         },
         {
             "name": "league/flysystem",

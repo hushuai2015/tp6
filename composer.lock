@@ -4,10 +4,10 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "157abcd72ba237fa69abda8140b8f523",
+    "content-hash": "fbd1b2859eb17a898ba983171abe5329",
     "packages": [
         {
-            "name": "hushuai/tp-rabbmitmq",
+            "name": "hushuai/tp-rabbitmq",
             "version": "v1.0.4",
             "source": {
                 "type": "git",

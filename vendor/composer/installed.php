@@ -5,16 +5,16 @@
         'type' => 'project',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
-        'reference' => 'e3322e7d014f0af20d9f683402f62111988e4938',
+        'reference' => '5f7a15cf56f1056d46eeef07838b60b635a7766b',
         'name' => 'topthink/think',
         'dev' => true,
     ),
     'versions' => array(
-        'hushuai/tp-rabbmitmq' => array(
+        'hushuai/tp-rabbitmq' => array(
             'pretty_version' => 'v1.0.4',
             'version' => '1.0.4.0',
             'type' => 'library',
-            'install_path' => __DIR__ . '/../hushuai/tp-rabbmitmq',
+            'install_path' => __DIR__ . '/../hushuai/tp-rabbitmq',
             'aliases' => array(),
             'reference' => '667c4de4af6c33442a42259288afc5c1dd529bd8',
             'dev_requirement' => false,
@@ -169,7 +169,7 @@
             'type' => 'project',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
-            'reference' => 'e3322e7d014f0af20d9f683402f62111988e4938',
+            'reference' => '5f7a15cf56f1056d46eeef07838b60b635a7766b',
             'dev_requirement' => false,
         ),
         'topthink/think-helper' => array(
